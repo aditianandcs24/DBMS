@@ -23,3 +23,9 @@ insert into accident values(12, "07-08-07", "basvangudi");
 insert into accident values(13, "10-09-09", "south end");
 insert into accident values(14, "06-08-09", "ring road");
 insert into accident values(15, "05-04-09", "jayanagar ");
+
+insert into participated values("A01", "KA06576", 11, 10000);
+insert into participated values("A02", "KA0008", 11, 10900);
+insert into participated values("A03", "KA9909", 11, 80000);
+insert into participated values("A04", "KA9876", 11, 20000);
+insert into participated values("A05", "KA06886", 11, 10090);
