@@ -1,0 +1,25 @@
+insert into person values( "001","ABCD","BLR");
+insert into person values( "002","BOB","DEL");
+insert into person values( "003","ROB","BLR");
+insert into person values( "004","TOM","BOM");
+insert into person values( "005","XYZ","DEL");
+
+SELECT *from person;
+
+insert into car values("KA06576","indica",1990);
+insert into car values("KA0008","lancer",1978);
+insert into car values("KA9909","toyota",1980);
+insert into car values("KA9876","honda",2000);
+insert into car values("KA06886","audi",2008);  
+
+insert into owns values("A01","KA06576");
+insert into owns values("A02","KA0008");
+insert into owns values("A03","KA9909");
+insert into owns values("A04","KA9876");
+insert into owns values("A05","KA06886");
+
+nsert into accident values(11, "01-01-03", "mysore road");
+insert into accident values(12, "07-08-07", "basvangudi");
+insert into accident values(13, "10-09-09", "south end");
+insert into accident values(14, "06-08-09", "ring road");
+insert into accident values(15, "05-04-09", "jayanagar ");
